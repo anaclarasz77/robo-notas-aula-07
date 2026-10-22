@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+alunos.csv
+alunos_corrigidos.csv
+alunos_atualizados.csv
+resultado_envios.csv
+links_forms.txt
+.env
